@@ -6,5 +6,5 @@
 
 ### To Do
 ・Re-calibrate before exams<br>
-・Reflect the scaling factors for 
+・Reflect the scaling factors for "esp32_post_data/post_data.ino" 
 
